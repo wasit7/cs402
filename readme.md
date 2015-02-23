@@ -1,5 +1,5 @@
 To clone:
->> git clone https://github.com/wasit7/cs426
+>> git clone https://github.com/wasit7/cs402
 
 To reset all local files and pull:
 >> git fetch --all
