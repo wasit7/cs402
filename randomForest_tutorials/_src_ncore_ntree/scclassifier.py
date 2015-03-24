@@ -39,7 +39,7 @@ class classifier:
             
 if __name__ == '__main__':
     from matplotlib import pyplot as plt      
-    from scdataset import dataset
+    from scdataset_spiral import dataset
     from scmaster import master
     import numpy as np
     import os

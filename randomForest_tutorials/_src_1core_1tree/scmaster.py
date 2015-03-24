@@ -31,6 +31,7 @@ class master:
         self.eng.pop()
         self.node=self.queue.pop()
     def train(self):
+        #traveling through the tree
         while 0<len(self.queue):
             self.pop()
             self.search()
