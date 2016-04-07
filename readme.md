@@ -1,14 +1,18 @@
 To clone:
->> git clone https://github.com/wasit7/cs402
-
+```
+  git clone https://github.com/wasit7/cs402
+```
 To reset all local files and pull:
->> git fetch --all
->> git reset --hard origin/master
->> git pull
-
+```
+  git fetch --all
+  git reset --hard origin/master
+  git pull
+```
 To add all and commit:
->> git add -A && git commit
-
+```
+  git add -A && git commit
+```
 To push:
->> git push
-
+```
+  git push
+```
